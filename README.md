@@ -34,7 +34,7 @@ yarn dev
 ## 📁 Project Structure
 
 ```
-html_app/
+Travel-inspiration-website/
 ├── css/
 │   ├── tailwind.css   # Tailwind source file with custom utilities
 │   └── main.css       # Compiled CSS (generated)
